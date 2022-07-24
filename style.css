@@ -1,0 +1,18 @@
+.que{
+ font-size: 20px;
+ color: aqua;
+}
+#imagm{
+  image-resolution: 1000;
+  padding-right: 1%;
+padding-left: 2%;
+margin-left: 0%;
+margin-right: 0%;
+width: 20px;
+}
+.film_head{
+  font-size: 20px;
+  padding: 6px 22px;
+  border-radius: 10px;
+  margin-bottom: 15px;
+}
